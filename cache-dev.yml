@@ -3,3 +3,6 @@ spring:
     host: redis.qfjava.cn
     port: 8400
     password: redis001
+  rabbitmq:
+    host: rabbitmq.qfjava.cn
+    port: 8800
